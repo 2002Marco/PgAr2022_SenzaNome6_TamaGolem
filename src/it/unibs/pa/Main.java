@@ -83,7 +83,7 @@ public class Main {
 				flag = false;
 				
 		}while(flag);
-		
+	
 	}
 	
 	public static void evocaTamaGolem(Giocatore g, Scorta sc, Giocatore g2) {
