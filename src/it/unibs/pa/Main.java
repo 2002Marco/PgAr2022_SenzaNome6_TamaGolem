@@ -1,7 +1,6 @@
 package it.unibs.pa;
 
 
-import it.unibs.fp.mylib.InputDati;
 
 public class Main {
 	
